@@ -1,0 +1,14 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+**/Properties/launchSettings.json
+
+# Logs / env
+logs/
+*.log
+.env
