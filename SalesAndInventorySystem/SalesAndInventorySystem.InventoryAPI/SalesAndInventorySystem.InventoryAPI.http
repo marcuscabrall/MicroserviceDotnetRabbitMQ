@@ -1,6 +1,0 @@
-@SalesAndInventorySystem.InventoryAPI_HostAddress = http://localhost:5100
-
-GET {{SalesAndInventorySystem.InventoryAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
